@@ -1,0 +1,147 @@
+.margem{
+    padding: 15px 15px;
+}
+
+.navbar{
+    background-color: pink;
+}
+
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white; 
+}
+
+
+.navbar li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    padding: 5px;
+   
+}
+
+
+.carouselProdutos{
+    background-color: bisque;
+}
+
+.carousel-inner{
+height: 30em;
+
+}
+
+
+.card-img-top{
+    width: 100%;
+    height: 300px;
+    align-items: center;
+
+}
+
+.modaFemina{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.modaMasculina{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.enxovais{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.calcados{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.redeSociais{
+    padding: 15px;
+    background-color: pink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+.redeSociais ul{
+    display:inline-flex;
+    text-decoration: none;
+    list-style: none;
+    padding: 10px;
+ 
+
+}
+
+.redeSociais li a img{
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.nossaoLoja{
+    padding-top: 20px;
+    background-color: bisque;
+    height: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.faleConosco{
+    padding-top: 20px;
+    height: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: pink;
+}
+
+.faleConosco {
+
+    height: 300px;
+
+
+}
+
+.whats{ 
+
+    height: 300px;
+
+}
+
+.whats img{ 
+    margin-top: -10px;
+    height: 150px;
+    float: left;
+
+
+}
+
+.whats h2{ 
+margin-bottom: 40px;
+
+}
+
+.formaPagamento img{
+    width: 350px;
+    margin-top: 10px;
+   justify-items: center;
+   
+ 
+}
+
+.footer{
+    margin-top: 20px;
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.final{
+   padding-top: 10px;
+    background-color: bisque;
+}
+
+
+
